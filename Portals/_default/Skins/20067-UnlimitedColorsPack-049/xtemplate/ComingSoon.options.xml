@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DNNGo_SkinPlugin>
+  <Settings>
+  
+  
+  
+		<Setting>
+			<Name><![CDATA[DayRoundColor]]></Name>
+			<Alias><![CDATA[Day bg Color]]></Alias>
+			<Width><![CDATA[208]]></Width>
+			<Rows><![CDATA[1]]></Rows>
+			<DefaultValue><![CDATA[#07c6f5]]></DefaultValue>
+			<ControlType><![CDATA[Colorpicker]]></ControlType>
+			<Direction><![CDATA[Vertical]]></Direction>
+			<ListContent><![CDATA[]]></ListContent>
+			<Description><![CDATA[class:accent_color]]></Description>
+			<Required><![CDATA[True]]></Required>
+			<Verification><![CDATA[]]></Verification>
+			<Group><![CDATA[ComingSoon Style ]]></Group>
+			<Categories><![CDATA[ComingSoon Layout]]></Categories>
+		</Setting>
+		<Setting>
+			<Name><![CDATA[HourRoundColor]]></Name>
+			<Alias><![CDATA[Hour bg Color]]></Alias>
+			<Width><![CDATA[208]]></Width>
+			<Rows><![CDATA[1]]></Rows>
+			<DefaultValue><![CDATA[#07c6f5]]></DefaultValue>
+			<ControlType><![CDATA[Colorpicker]]></ControlType>
+			<Direction><![CDATA[Vertical]]></Direction>
+			<ListContent><![CDATA[]]></ListContent>
+			<Description><![CDATA[class:accent_color]]></Description>
+			<Required><![CDATA[True]]></Required>
+			<Verification><![CDATA[]]></Verification>
+			<Group><![CDATA[ComingSoon Style ]]></Group>
+			<Categories><![CDATA[ComingSoon Layout]]></Categories>
+		</Setting>
+		<Setting>
+			<Name><![CDATA[MinuteRoundColor]]></Name>
+			<Alias><![CDATA[Minute bg Color]]></Alias>
+			<Width><![CDATA[208]]></Width>
+			<Rows><![CDATA[1]]></Rows>
+			<DefaultValue><![CDATA[#07c6f5]]></DefaultValue>
+			<ControlType><![CDATA[Colorpicker]]></ControlType>
+			<Direction><![CDATA[Vertical]]></Direction>
+			<ListContent><![CDATA[]]></ListContent>
+			<Description><![CDATA[class:accent_color]]></Description>
+			<Required><![CDATA[True]]></Required>
+			<Verification><![CDATA[]]></Verification>
+			<Group><![CDATA[ComingSoon Style ]]></Group>
+			<Categories><![CDATA[ComingSoon Layout]]></Categories>
+		</Setting>
+		<Setting>
+			<Name><![CDATA[SecondRoundColor]]></Name>
+			<Alias><![CDATA[Second bg Color]]></Alias>
+			<Width><![CDATA[208]]></Width>
+			<Rows><![CDATA[1]]></Rows>
+			<DefaultValue><![CDATA[#07c6f5]]></DefaultValue>
+			<ControlType><![CDATA[Colorpicker]]></ControlType>
+			<Direction><![CDATA[Vertical]]></Direction>
+			<ListContent><![CDATA[]]></ListContent>
+			<Description><![CDATA[class:accent_color]]></Description>
+			<Required><![CDATA[True]]></Required>
+			<Verification><![CDATA[]]></Verification>
+			<Group><![CDATA[ComingSoon Style ]]></Group>
+			<Categories><![CDATA[ComingSoon Layout]]></Categories>
+		</Setting>
+	   <Setting>
+		   <Name><![CDATA[endtime]]></Name>
+		   <Alias><![CDATA[End Time]]></Alias>
+		   <Width><![CDATA[208]]></Width>
+		   <Rows><![CDATA[1]]></Rows>
+		   <DefaultValue><![CDATA[12 September 2016 11:49:00]]></DefaultValue>
+		   <ControlType><![CDATA[TextBox]]></ControlType>
+		   <Direction><![CDATA[Vertical]]></Direction>
+		   <ListContent><![CDATA[]]></ListContent>
+		   <Description><![CDATA[Invalid date. example: 12 December 2012 12:00:00]]></Description>
+		   <Required><![CDATA[True]]></Required>
+		   <Verification><![CDATA[]]></Verification>
+		   <Group><![CDATA[ComingSoon Style]]></Group>
+		   <Categories><![CDATA[ComingSoon Layout]]></Categories>
+	   </Setting>			 		
+		<Setting>
+			<Name><![CDATA[AccentColor]]></Name>
+			<Alias><![CDATA[Accent Color]]></Alias>
+			<Width><![CDATA[208]]></Width>
+			<Rows><![CDATA[1]]></Rows>
+			<DefaultValue><![CDATA[#07c6f5]]></DefaultValue>
+			<ControlType><![CDATA[Colorpicker]]></ControlType>
+			<Direction><![CDATA[Vertical]]></Direction>
+			<ListContent><![CDATA[]]></ListContent>
+			<Description><![CDATA[class:accent_color]]></Description>
+			<Required><![CDATA[True]]></Required>
+			<Verification><![CDATA[]]></Verification>
+			<Group><![CDATA[ComingSoon Style ]]></Group>
+			<Categories><![CDATA[ComingSoon Layout]]></Categories>
+		</Setting>
+		
+	   <Setting>
+		   <Name><![CDATA[Backgroundcolorsytle]]></Name>
+		   <Alias><![CDATA[Show Bg]]></Alias>
+		   <Width><![CDATA[208]]></Width>
+		   <Rows><![CDATA[1]]></Rows>
+		   <DefaultValue><![CDATA[Default Image]]></DefaultValue>
+		   <ControlType><![CDATA[DropDownList]]></ControlType>
+		   <Direction><![CDATA[Vertical]]></Direction>
+		   <ListContent><![CDATA[Default Image,Page Background]]></ListContent>
+		   <Description><![CDATA[]]></Description>
+		   <Required><![CDATA[True]]></Required>
+		   <Verification><![CDATA[]]></Verification>
+		   <Group><![CDATA[ComingSoon Style]]></Group>
+		   <Categories><![CDATA[ComingSoon Layout]]></Categories>
+	   </Setting>
+	   
+	   <Setting>
+		   <Name><![CDATA[Showshade]]></Name>
+		   <Alias><![CDATA[Show Shade]]></Alias>
+		   <Width><![CDATA[208]]></Width>
+		   <Rows><![CDATA[1]]></Rows>
+		   <DefaultValue><![CDATA[Show]]></DefaultValue>
+		   <ControlType><![CDATA[DropDownList]]></ControlType>
+		   <Direction><![CDATA[Vertical]]></Direction>
+		   <ListContent><![CDATA[Show,Hide]]></ListContent>
+		   <Description><![CDATA[]]></Description>
+		   <Required><![CDATA[True]]></Required>
+		   <Verification><![CDATA[]]></Verification>
+		   <Group><![CDATA[ComingSoon Style]]></Group>
+		   <Categories><![CDATA[ComingSoon Layout]]></Categories>
+	   </Setting>
+	   
+	   
+	   
+  </Settings>
+</DNNGo_SkinPlugin>
+
+
+
