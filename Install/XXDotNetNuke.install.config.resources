@@ -9,18 +9,18 @@
   <superuser>
     <firstname>SuperUser</firstname>
     <lastname>Account</lastname>
-    <username>altofyhost</username>
-    <password>41T0Fy!@</password>
-    <email>anmar.tawfik@altofy.com</email>
+    <username>wahost</username>
+    <password>waadvantag3!</password>
+    <email>anmar.tawfik@glanton.com</email>
     <locale>en-US</locale>
     <updatepassword>false</updatepassword>
   </superuser>
    <superuser>
-    <firstname>Super User temp</firstname>
-    <lastname>Account</lastname>
-    <username>altofyhost2</username>
-    <password>41T0Fy!@2</password>
-    <email>anmar.tawfik@altofy.com</email>
+    <firstname>SuperUser2</firstname>
+    <lastname>Account2</lastname>
+    <username>wahost2</username>
+    <password>waadvantag3!2</password>
+    <email>anmar.tawfik@glanton.com</email>
     <locale>en-US</locale>
     <updatepassword>false</updatepassword>
   </superuser>
@@ -56,8 +56,8 @@
     <HostFee></HostFee>
     <HostPortalId>0</HostPortalId>
     <HostSpace></HostSpace>
-    <HostTitle>altofy site</HostTitle>
-    <HostURL>http://www.altofy.com.au</HostURL>
+    <HostTitle>WebAdvantage</HostTitle>
+    <HostURL>http://www.glanton.com</HostURL>
     <HttpCompression>0</HttpCompression>
     <HttpCompressionLevel>0</HttpCompressionLevel>
     <ModuleCaching>MemoryModuleCachingProvider</ModuleCaching>
@@ -78,7 +78,7 @@
     <SkinUpload>G</SkinUpload>
     <SMTPAuthentication>1</SMTPAuthentication>
     <SMTPEnableSSL>N</SMTPEnableSSL>
-    <SMTPPassword Secure="True">PUTCORRECTNUMBER</SMTPPassword>
+    <SMTPPassword Secure="True">1ZdzTpHHRAmIwr09E2MQKw</SMTPPassword>
     <SMTPServer>smtp.mandrillapp.com:587</SMTPServer>
     <SMTPUsername Secure="True">sampsoni@glanton.com</SMTPUsername>
     <UseCustomErrorMessages>Y</UseCustomErrorMessages>
@@ -91,17 +91,18 @@
   <desktopmodules/>
   <portals>
     <portal>
-      <portalname>altofy Website</portalname>
+      <portalname>WA Website</portalname>
       <administrator>
         <firstname>Administrator</firstname>
         <lastname>Account</lastname>
-        <username>admin</username>
-        <password>admin41T0Fy#</password>
-        <email>altofy@altofy.com</email>
+        <username>waadmin</username>
+        <password>waadm1n!</password>
+        <email>anmar.tawfik@glanton.com</email>
+		 <updatepassword>false</updatepassword>
       </administrator>
       <description>My Website</description>
-      <keywords>altofy, cloud, content, Management, CMS</keywords>
-      <templatefile>Default Website.template</templatefile>
+      <keywords>WebAdvantage, DNN, Content, Management, CMS</keywords>
+      <templatefile>WebAdvantage.template</templatefile>
       <portalaliases>
         <portalalias></portalalias>
       </portalaliases>
